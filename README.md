@@ -14,9 +14,9 @@
   <img src="https://skillicons.dev/icons?i=sass,tailwind&theme=light" />
 
 #### Other
-  <img src="https://skillicons.dev/icons?i=nginx,regex,selenium" />
+  <img src="https://skillicons.dev/icons?i=regex,selenium" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=raspberrypi,ubuntu,vscode,git,docker,postman,kafka" />
+<img src="https://skillicons.dev/icons?i=raspberrypi,ubuntu,vscode,git,docker,postman,nginx,kafka" />
 
 
