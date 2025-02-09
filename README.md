@@ -6,7 +6,7 @@
 
 ### Skills
 #### Backend - 80%
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis" />    
+  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,elasticsearch" />    
   <img src="https://skillicons.dev/icons?i=graphql&theme=light" />
 
 #### Frontend - 60%
