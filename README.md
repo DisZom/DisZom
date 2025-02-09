@@ -1,19 +1,19 @@
 <h1 align="center">Hi there 👋</h1>
 
-## Languages
+### Languages:
   <img src="https://skillicons.dev/icons?i=python,ts,cs" />
 
-## Skills
-### Backend
+### Skills
+#### Backend
   <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,graphql" />
 
-### Frontend
+#### Frontend
   <img src="https://skillicons.dev/icons?i=bun,vite,svelte,tailwind" />
 
-### Other
+#### Other
   <img src="https://skillicons.dev/icons?i=nginx,regex,selenium" />
 
-## Tools
+### Tools
 <img src="https://skillicons.dev/icons?i=raspberrypi,ubuntu,vscode,git,docker,kafka,postman" />
 
 
