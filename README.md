@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**DisZom/DisZom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+  <img src="https://skillicons.dev/icons?i=python,ts,cs" />
 
-Here are some ideas to get you started:
+## Skills
+### Backend
+  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,graphql" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+  <img src="https://skillicons.dev/icons?i=bun,vite,svelte,tailwind" />
+
+### Other
+  <img src="https://skillicons.dev/icons?i=nginx,regex,selenium" />
+
+## Tools
+<img src="https://skillicons.dev/icons?i=raspberrypi,ubuntu,vscode,git,docker,kafka,postman" />
+
+
