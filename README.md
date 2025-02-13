@@ -5,11 +5,11 @@
   <img src="https://skillicons.dev/icons?i=python,ts,cs" />
 
 ### Skills
-#### Backend - 80%
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,elasticsearch" />    
-  <img src="https://skillicons.dev/icons?i=graphql&theme=light" />
+#### Backend
+  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis" />    
+  <img src="https://skillicons.dev/icons?i=graphql,elasticsearch&theme=light" />
 
-#### Frontend - 60%
+#### Frontend
   <img src="https://skillicons.dev/icons?i=bun,vite,svelte" />
   <img src="https://skillicons.dev/icons?i=sass,tailwind&theme=light" />
 
