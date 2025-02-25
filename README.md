@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">🌐Backend Python Developer🌐</h3>
 
 ### Languages:
   <img src="https://skillicons.dev/icons?i=python,ts,cs" />
@@ -8,10 +7,6 @@
 #### Backend
   <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis" />    
   <img src="https://skillicons.dev/icons?i=graphql,elasticsearch&theme=light" />
-
-#### Frontend
-  <img src="https://skillicons.dev/icons?i=bun,vite,svelte" />
-  <img src="https://skillicons.dev/icons?i=sass,tailwind&theme=light" />
 
 #### Other
   <img src="https://skillicons.dev/icons?i=regex,selenium" />
